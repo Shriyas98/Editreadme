@@ -29,7 +29,7 @@ text_in.txt and generate a format displaying Word Length and Count.
 Open the input text_in.txt in r+ mode and perfrom split and read on it.
 We have defined a dictionary as count_map.
 Use max function to find the maximum word length.
-line 46 and 48 includes the representation of a table format.
+Line 46 and 48 includes the representation of a table format.
 According to the format showed in question we have taken a padding of approx 20.
 Generate the output into a new text file named 'text_out2.txt'.
 
@@ -40,7 +40,7 @@ Encrypt each word of the text in text_in.txt with a simple text encryption schem
 a = last 2 digits of USC ID i.e 34
 Open the input text_in.txt in r+ mode and perfrom split and read on it.
 We have defined a dictionary as map_encoding.
-Line 62 and 63 uses 2 for loops, which implements as 
+Line 62 and 63 uses 2 for loops, which implements as
 for every word in paragraph and for every letter in paragraph.
 Use the formula given on every letter obtained from the foe loops.
 Generate the output into a new text file named 'text_out3.txt'.
